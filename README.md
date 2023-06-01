@@ -1,4 +1,4 @@
-# My Name is Benson
+# My name is Benson
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=ioveasdkre&show_icons=true&theme=blue-green)
