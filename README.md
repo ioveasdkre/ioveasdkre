@@ -13,8 +13,6 @@ I am a passionate software engineer dedicated to developing high-quality softwar
 | <a href="https://github.com/ioveasdkre/github-readme-stats"><img align="center" src="https://github-readme-stats-benson.vercel.app/api?username=ioveasdkre&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ioveasdkre/github-readme-stats"><img align="center" src="https://github-readme-stats-benson.vercel.app/api/top-langs/?username=ioveasdkre&layout=compact&theme=blue-green&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ioveasdkre&" alt="ioveasdkre" /></p>
-
 <h3 align="left">Connect with me:</h3>
 
 <code><img height="20" alt="gmail" src="https://cdn.simpleicons.org/gmail"></code>
