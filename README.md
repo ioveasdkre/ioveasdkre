@@ -15,8 +15,8 @@ I am a passionate software engineer dedicated to developing high-quality softwar
 
 <h3 align="left">Connect with me:</h3>
 
-<code><img height="20" alt="gmail" src="https://cdn.simpleicons.org/gmail"></code>
-&nbsp;<a href="mailto:a283835639@gmail.com">a283835639@gmail.com</a>
+<a href="mailto:a283835639@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40">
+&nbsp;a283835639@gmail.com</a>
 
 <a href="https://linkedin.com/in/twbenson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twbenson" height="30" width="40"/>&nbsp;&nbsp;https://www.linkedin.com/in/twbenson</a>
 
